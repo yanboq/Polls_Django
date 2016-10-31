@@ -1,0 +1,10 @@
+li a {
+    font-family: 'Bree Serif';
+    font-size: 2em;
+    color: #A57706;
+    margin-bottom: 0;
+}
+
+body {
+    background: white url('images/background.gif') no-repeat right top;
+}
